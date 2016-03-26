@@ -15,6 +15,10 @@ public class NumberHolder {
 
     public float aFloat;
     
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args){
         NumberHolder n;
         n = new NumberHolder();
