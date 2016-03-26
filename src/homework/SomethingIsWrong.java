@@ -7,11 +7,14 @@ package homework;
 
 /**
  *
- * @author felixsima
+ * @author AlexandruCarjan
  */
 import java.awt.Rectangle;
 
-
+/**
+ *
+ * @author AlexandruCarjan
+ */
 public class SomethingIsWrong {
     
     public static int area(Rectangle r){
@@ -20,7 +23,10 @@ public class SomethingIsWrong {
         
     }
 
-
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args){
 
         Rectangle myRect;
