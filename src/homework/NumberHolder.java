@@ -7,7 +7,7 @@ package homework;
 
 /**
  *
- * @author felixsima
+ * @author AlexandruCarjan
  */
 public class NumberHolder {
 
